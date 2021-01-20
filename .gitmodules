@@ -3,3 +3,35 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "apexcharter"]
+	path = apexcharter
+	url = https://github.com/dreamrs/apexcharter
+	shallow = true
+[submodule "billboarder"]
+	path = billboarder
+	url = https://github.com/dreamrs/billboarder
+	shallow = true
+[submodule "esquisse"]
+	path = esquisse
+	url = https://github.com/dreamrs/esquisse
+	shallow = true
+[submodule "fresh"]
+	path = fresh
+	url = https://github.com/dreamrs/fresh
+	shallow = true
+[submodule "gfonts"]
+	path = gfonts
+	url = https://github.com/dreamrs/gfonts
+	shallow = true
+[submodule "shinybusy"]
+	path = shinybusy
+	url = https://github.com/dreamrs/shinybusy
+	shallow = true
+[submodule "shinylogs"]
+	path = shinylogs
+	url = https://github.com/dreamrs/shinylogs
+	shallow = true
+[submodule "shinyWidgets"]
+	path = shinyWidgets
+	url = https://github.com/dreamrs/shinywidgets
+	shallow = true
