@@ -11,6 +11,10 @@
 	path = billboarder
 	url = https://github.com/dreamrs/billboarder
 	shallow = true
+[submodule "datamods"]
+	path = datamods
+	url = https://github.com/dreamrs/datamods
+	shallow = true
 [submodule "esquisse"]
 	path = esquisse
 	url = https://github.com/dreamrs/esquisse
