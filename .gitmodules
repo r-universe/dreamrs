@@ -8,52 +8,43 @@
 	url = https://github.com/dreamrs/apexcharter
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "billboarder"]
 	path = billboarder
 	url = https://github.com/dreamrs/billboarder
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "datamods"]
 	path = datamods
 	url = https://github.com/dreamrs/datamods
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "esquisse"]
 	path = esquisse
 	url = https://github.com/dreamrs/esquisse
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "fresh"]
 	path = fresh
 	url = https://github.com/dreamrs/fresh
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gfonts"]
 	path = gfonts
 	url = https://github.com/dreamrs/gfonts
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "shinybusy"]
 	path = shinybusy
 	url = https://github.com/dreamrs/shinybusy
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "shinylogs"]
 	path = shinylogs
 	url = https://github.com/dreamrs/shinylogs
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "shinyWidgets"]
 	path = shinyWidgets
 	url = https://github.com/dreamrs/shinywidgets
 	shallow = true
 	registered = true
-	oncran = true
