@@ -48,3 +48,8 @@
 	url = https://github.com/dreamrs/shinywidgets
 	shallow = true
 	registered = true
+[submodule "toastui"]
+	path = toastui
+	url = https://github.com/dreamrs/toastui
+	shallow = true
+	registered = true
