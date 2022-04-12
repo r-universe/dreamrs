@@ -33,6 +33,11 @@
 	url = https://github.com/dreamrs/gfonts
 	shallow = true
 	registered = true
+[submodule "phosphoricons"]
+	path = phosphoricons
+	url = https://github.com/dreamrs/phosphoricons
+	shallow = true
+	registered = true
 [submodule "shinybusy"]
 	path = shinybusy
 	url = https://github.com/dreamrs/shinybusy

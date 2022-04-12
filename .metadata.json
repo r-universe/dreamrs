@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "phosphoricons",
+    "oncran": true
+  },
+  {
     "package": "shinybusy",
     "oncran": true
   },
