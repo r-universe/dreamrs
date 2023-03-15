@@ -1,38 +1,6 @@
 [
   {
-    "package": "apexcharter",
-    "oncran": true
-  },
-  {
-    "package": "billboarder",
-    "oncran": true
-  },
-  {
-    "package": "datamods",
-    "oncran": true
-  },
-  {
     "package": "esquisse",
-    "oncran": true
-  },
-  {
-    "package": "fresh",
-    "oncran": true
-  },
-  {
-    "package": "gfonts",
-    "oncran": true
-  },
-  {
-    "package": "phosphoricons",
-    "oncran": true
-  },
-  {
-    "package": "shinybusy",
-    "oncran": true
-  },
-  {
-    "package": "shinylogs",
     "oncran": true
   },
   {
@@ -41,6 +9,38 @@
   },
   {
     "package": "toastui",
+    "oncran": true
+  },
+  {
+    "package": "apexcharter",
+    "oncran": true
+  },
+  {
+    "package": "fresh",
+    "oncran": true
+  },
+  {
+    "package": "shinylogs",
+    "oncran": true
+  },
+  {
+    "package": "phosphoricons",
+    "oncran": true
+  },
+  {
+    "package": "datamods",
+    "oncran": true
+  },
+  {
+    "package": "shinybusy",
+    "oncran": true
+  },
+  {
+    "package": "gfonts",
+    "oncran": true
+  },
+  {
+    "package": "billboarder",
     "oncran": true
   }
 ]
