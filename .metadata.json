@@ -1,46 +1,35 @@
 [
   {
-    "package": "apexcharter",
-    "oncran": true
+    "package": "apexcharter"
   },
   {
-    "package": "billboarder",
-    "oncran": true
+    "package": "billboarder"
   },
   {
-    "package": "datamods",
-    "oncran": true
+    "package": "datamods"
   },
   {
-    "package": "esquisse",
-    "oncran": true
+    "package": "esquisse"
   },
   {
-    "package": "fresh",
-    "oncran": true
+    "package": "fresh"
   },
   {
-    "package": "gfonts",
-    "oncran": true
+    "package": "gfonts"
   },
   {
-    "package": "phosphoricons",
-    "oncran": true
+    "package": "phosphoricons"
   },
   {
-    "package": "shinybusy",
-    "oncran": true
+    "package": "shinybusy"
   },
   {
-    "package": "shinylogs",
-    "oncran": true
+    "package": "shinylogs"
   },
   {
-    "package": "shinyWidgets",
-    "oncran": true
+    "package": "shinyWidgets"
   },
   {
-    "package": "toastui",
-    "oncran": true
+    "package": "toastui"
   }
 ]
