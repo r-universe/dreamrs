@@ -23,15 +23,15 @@
 [submodule "phosphoricons"]
 	path = phosphoricons
 	url = https://github.com/dreamrs/phosphoricons
+[submodule "shinyWidgets"]
+	path = shinyWidgets
+	url = https://github.com/dreamrs/shinywidgets
 [submodule "shinybusy"]
 	path = shinybusy
 	url = https://github.com/dreamrs/shinybusy
 [submodule "shinylogs"]
 	path = shinylogs
 	url = https://github.com/dreamrs/shinylogs
-[submodule "shinyWidgets"]
-	path = shinyWidgets
-	url = https://github.com/dreamrs/shinywidgets
 [submodule "toastui"]
 	path = toastui
 	url = https://github.com/dreamrs/toastui
